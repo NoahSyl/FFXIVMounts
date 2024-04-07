@@ -1,4 +1,4 @@
-package com.example.apitest
+package com.example.FFXIVMounts
 
 class Repository {
     val apiInterface = ApiInterface.create()

@@ -1,4 +1,4 @@
-package com.example.apitest
+package com.example.FFXIVMounts
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.apitest.ui.theme.APITestTheme
+import com.example.FFXIVMounts.ui.theme.APITestTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

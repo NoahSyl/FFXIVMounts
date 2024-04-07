@@ -1,4 +1,4 @@
-package com.example.apitest.model
+package com.example.FFXIVMounts.model
 
 import com.google.gson.annotations.SerializedName
 

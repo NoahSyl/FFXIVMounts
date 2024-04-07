@@ -1,4 +1,4 @@
-package com.example.apitest.ui.theme
+package com.example.FFXIVMounts.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

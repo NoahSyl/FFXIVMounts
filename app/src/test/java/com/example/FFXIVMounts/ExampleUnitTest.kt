@@ -1,4 +1,4 @@
-package com.example.apitest
+package com.example.FFXIVMounts
 
 import org.junit.Test
 

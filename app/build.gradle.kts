@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.apitest"
+    namespace = "com.example.FFXIVMounts"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.apitest"
+        applicationId = "com.example.FFXIVMounts"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

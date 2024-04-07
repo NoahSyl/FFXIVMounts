@@ -1,6 +1,6 @@
-package com.example.apitest
+package com.example.FFXIVMounts
 
-import com.example.apitest.model.data
+import com.example.FFXIVMounts.model.data
 import okhttp3.OkHttpClient
 import retrofit2.Response
 import retrofit2.Retrofit
